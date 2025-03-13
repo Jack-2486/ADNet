@@ -1,0 +1,4 @@
+Epoch, Train loss, Validation Accuracy, Test Accuracy,test_accurate
+Epoch:1,Train loss:0.6620,Validation Accuracy:0.9869,Test Loss:0.0020,test_Accuracy:0.9863
+Epoch:2,Train loss:0.1711,Validation Accuracy:0.9948,Test Loss:0.0007,test_Accuracy:0.9935
+Epoch:3,Train loss:0.1474,Validation Accuracy:0.9954,Test Loss:0.0007,test_Accuracy:0.9941
